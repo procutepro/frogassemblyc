@@ -1,1 +1,1 @@
-wsl ./compile.sh
+no
