@@ -1,0 +1,1 @@
+wsl ./compile.sh
