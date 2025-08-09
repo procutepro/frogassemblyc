@@ -1,2 +1,1 @@
-python main.py
-python lexalc.py
+don't look here
